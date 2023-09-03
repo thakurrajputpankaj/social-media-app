@@ -1,3 +1,8 @@
+# Ignore Node.js modules directory
 node_modules/
+
+# Ignore macOS .DS_Store files
 .DS_Store
+
+# Ignore .env files (typically used for environment variables)
 .env
